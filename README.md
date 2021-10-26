@@ -1,3 +1,3 @@
-# This repo is just for a thing that checks the version
-# since the other one isn't public
-# so i had to make this one
+# This repo is just for a thing that checks game version
+# since it isn't public
+# had to make this one
